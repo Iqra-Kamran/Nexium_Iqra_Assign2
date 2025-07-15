@@ -1,7 +1,7 @@
-import type { NextConfig } from "next";
+const nextConfig = {
+  env: {
+    HUGGINGFACE_API_KEY: process.env.HUGGINGFACE_API_KEY,
+  },
+}
 
-const nextConfig: NextConfig = {
-  /* config options here */
-};
-
-export default nextConfig;
+export default nextConfig
