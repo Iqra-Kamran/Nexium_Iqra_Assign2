@@ -11,9 +11,11 @@
   "dependencies": {
     "@google/generative-ai": "^0.24.1",
     "@radix-ui/react-slot": "^1.2.3",
+    "@supabase/supabase-js": "^2.51.0",
     "class-variance-authority": "^0.7.1",
     "clsx": "^2.1.1",
     "lucide-react": "^0.525.0",
+    "mongodb": "^6.17.0",
     "next": "15.3.5",
     "node-fetch": "^3.3.2",
     "node-summarizer": "^1.0.7",
