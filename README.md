@@ -16,6 +16,4 @@ Simply paste a blog URL and get:
 - MongoDB + Supabase
 - Urdu translation via MyMemory API
 
----
 
-Feel free to contribute or customize!
